@@ -1,0 +1,21 @@
+---
+object: set
+id: 7bb5cb2b-081a-4c8c-b7e1-494046e6baa1
+code: frf
+mtgo_code: frf
+arena_code: frf
+tcgplayer_id: 1497
+name: Fate Reforged
+uri: https://api.scryfall.com/sets/7bb5cb2b-081a-4c8c-b7e1-494046e6baa1
+scryfall_uri: https://scryfall.com/sets/frf
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afrf&unique=prints
+released_at: '2015-01-23'
+set_type: expansion
+card_count: 191
+printed_size: 185
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ktk
+block: Khans of Tarkir
+icon_svg_uri: https://svgs.scryfall.io/sets/frf.svg?1694404800

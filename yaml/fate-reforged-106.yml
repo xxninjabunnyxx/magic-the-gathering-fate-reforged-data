@@ -1,0 +1,120 @@
+---
+object: card
+id: 0071bf6e-a78b-4286-b3e7-acf44631a001
+oracle_id: a5196310-f449-4d5e-8ea8-901a83bad6ff
+multiverse_ids:
+- 391868
+mtgo_id: 55500
+mtgo_foil_id: 55501
+tcgplayer_id: 95318
+cardmarket_id: 271538
+name: Lightning Shrieker
+lang: en
+released_at: '2015-01-23'
+uri: https://api.scryfall.com/cards/0071bf6e-a78b-4286-b3e7-acf44631a001
+scryfall_uri: https://scryfall.com/card/frf/106/lightning-shrieker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/0/0071bf6e-a78b-4286-b3e7-acf44631a001.jpg?1562821887
+  normal: https://cards.scryfall.io/normal/front/0/0/0071bf6e-a78b-4286-b3e7-acf44631a001.jpg?1562821887
+  large: https://cards.scryfall.io/large/front/0/0/0071bf6e-a78b-4286-b3e7-acf44631a001.jpg?1562821887
+  png: https://cards.scryfall.io/png/front/0/0/0071bf6e-a78b-4286-b3e7-acf44631a001.png?1562821887
+  art_crop: https://cards.scryfall.io/art_crop/front/0/0/0071bf6e-a78b-4286-b3e7-acf44631a001.jpg?1562821887
+  border_crop: https://cards.scryfall.io/border_crop/front/0/0/0071bf6e-a78b-4286-b3e7-acf44631a001.jpg?1562821887
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Creature — Dragon
+oracle_text: |-
+  Flying, trample, haste
+  At the beginning of the end step, Lightning Shrieker's owner shuffles it into their library.
+power: '5'
+toughness: '5'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+- Haste
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7bb5cb2b-081a-4c8c-b7e1-494046e6baa1
+set: frf
+set_name: Fate Reforged
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/7bb5cb2b-081a-4c8c-b7e1-494046e6baa1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afrf&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/frf?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0071bf6e-a78b-4286-b3e7-acf44631a001/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa5196310-f449-4d5e-8ea8-901a83bad6ff&unique=prints
+collector_number: '106'
+digital: false
+rarity: common
+watermark: kolaghan
+flavor_text: Dragonslayers learned to keep silent about their deeds after seeing the
+  terrible vengeance wrought by Kolaghan and her brood.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: 40d79ca0-a88c-4d6d-bdfa-da0452a2fe70
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16016
+penny_rank: 3380
+prices:
+  usd: '0.04'
+  usd_foil: '0.34'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.13'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391868
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lightning+Shrieker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lightning+Shrieker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lightning+Shrieker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95318?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lightning+Shrieker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/55500?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
